@@ -1,7 +1,7 @@
 ## About Me
 
 Hello my name is Julian Wilson
-I student-athlete at Lehigh majoring in Finance
+I am a student-athlete at Lehigh majoring in Finance
 
 <!-- Upload your own photo and change the path -->
 
