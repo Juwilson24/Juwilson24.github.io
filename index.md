@@ -1,7 +1,7 @@
 ## About Me
 
 Hello my name is Julian Wilson
-I am an awesome student at Lehigh, you should hire me!
+I student-athlete at Lehigh majoring in Finance
 
 <!-- Upload your own photo and change the path -->
 
