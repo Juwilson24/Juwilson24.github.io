@@ -44,15 +44,14 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 ---
 
 ## Career Objectives
-
-I am a very active person. I love playing sports and engaging in outdoor activities such as playing basketball, working out, or going hiking.
-I love listening to music, cooking, and watching shows/movies my favorite being Game of Thrones. 
-
+I want to start my own investment firm where I would invest in Real Estate and stocks.
+- In relation to stocks I make trades using technicical indicatiors such as simple-moving averages, RSI, and support/resistance levels to trade options and stocks themselves. 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+I am a very active person. I love playing sports and engaging in outdoor activities such as playing basketball, working out, or going hiking.
+I love listening to music, cooking, and watching shows/movies my favorite being Game of Thrones. 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
