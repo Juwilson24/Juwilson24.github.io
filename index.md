@@ -1,7 +1,7 @@
 ## About Me
 
 Hello my name is Julian Wilson
-I am a student-athlete at Lehigh majoring in Finance
+I am a student-athlete at Lehigh, majoring in Finance
 
 <!-- Upload your own photo and change the path -->
 
@@ -45,9 +45,8 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+I am a very active person. I love playing sports and engaging in outdoor activities such as playing basketball, working out, or going hiking.
+I love listening to music, cooking, and watching shows/movies my favorite being Game of Thrones. 
 
 ---
 
