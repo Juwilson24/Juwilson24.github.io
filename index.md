@@ -45,7 +45,7 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 I want to start my own investment firm where I would invest in Real Estate and stocks.
-- In relation to stocks I make trades using technicical indicatiors such as simple-moving averages, RSI, and support/resistance levels to trade options and stocks themselves. 
+In relation to stocks I make trades using technicical indicatiors such as simple-moving averages, RSI, and support/resistance levels to trade options and stocks themselves. 
 ---
 
 ## Hobbies
