@@ -1,17 +1,6 @@
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
+---
+layout: wide_default
+---  
 ## Machine Learning Practice
 
 Objective: After this assignment, you can build a pipeline that
