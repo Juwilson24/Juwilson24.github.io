@@ -24,7 +24,7 @@ _**[Team project](final_project/final_project.md)**_
 
 ---
 
-_**[Some personal project](real_estate_project/project.md)**_
+_**[Real Estate Project](real_estate_project/project.md)**_
 
 <img src="real_estate_project/output_2_2.png?raw=true"/>
 
