@@ -1,3 +1,6 @@
+---
+layout: wide_default
+---  
 ```python
 # conda install -c conda-forge contextily
 ```
