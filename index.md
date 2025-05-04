@@ -9,9 +9,8 @@ I am a student-athlete at Lehigh, majoring in Finance
   <img class="img-circle" src="images/headshot.jpg" width="50%">
 </p>
 
-_**[Regression Practice](Regression_practice)**_
+_**[Regression Practice](asgn-07_exercises.md)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
