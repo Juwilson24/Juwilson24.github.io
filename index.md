@@ -33,7 +33,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 _**[Team project](https://finalprojectmichael.streamlit.app/)**_
 
-<img src="[images/Website.png?raw=true](https://finalprojectmichael.streamlit.app/)"/>
+<img src="images/Website.png?raw=true"/>
 
 ---
 
