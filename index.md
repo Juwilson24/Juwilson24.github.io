@@ -32,7 +32,7 @@ _**[Real Estate Project](real_estate_project/project.md)**_
 
 ## Career Objectives
 I want to start my own investment firm where I would invest in Real Estate and stocks.
-Stocks: My strategy is to use technical indicators such as simple-moving averages, RSI, and support/resistance levels to trade stocks and options. 
+My strategy is to use technical indicators such as simple-moving averages, RSI, and support/resistance levels to trade stocks and options. 
 ---
 
 ## Hobbies
