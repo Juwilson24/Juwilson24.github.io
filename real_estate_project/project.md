@@ -1,3 +1,6 @@
+---
+layout: wide_default
+---  
 ```python
 # Necessary Packages
 import pandas as pd
