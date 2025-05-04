@@ -31,7 +31,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-_**[Team project](https://donbowen.github.io/teamproject/)**_
+_**[Team project](https://finalprojectmichael.streamlit.app/)**_
 
 <img src="[images/dummy_thumbnail.jpg?raw=true](https://finalprojectmichael.streamlit.app/)"/>
 
