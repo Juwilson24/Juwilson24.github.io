@@ -12,7 +12,7 @@ I am a student-athlete at Lehigh, majoring in Finance
 _**[Regression Practice](asgn-07_exercises.md)**_
 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/output_24_0.png?raw=true"/>
 
 ---
 
