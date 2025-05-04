@@ -16,7 +16,7 @@ _**[Regression Practice](asgn-07_exercises.md)**_
 
 ---
 
-_**[Team project](final_project/final_project.md)**_
+_**[Team Project](final_project/final_project.md)**_
 
 <a href="https://finalprojectmichael.streamlit.app/" target="_blank">
   <img src="final_project/output_29_0.png?raw=true" />
