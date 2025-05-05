@@ -6,7 +6,7 @@ I am a student-athlete at Lehigh, majoring in Finance
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="images/football.PNG" width="50%">
+  <img class="img-circle" src="images/football_two.JPG" width="50%">
 </p>
 
 _**[Regression Practice](asgn-07_exercises.md)**_
