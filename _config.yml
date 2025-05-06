@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="pdf/website_resume.pdf">Resume</a> 
   <br>
-  <a " class="btn btn--info">Portfolio</a>  
+  <a href="index.md" class="btn btn--info">Portfolio</a> 
   <br>
   <a href="https://www.GitHub.com/Juwilson24/">GitHub</a>  
   
