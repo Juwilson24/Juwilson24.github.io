@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Julian Wilson. I am a student-athlete at Lehigh University, majoring in Finance with a minor in Real Estate
+My name is Julian Wilson. I am a student-athlete at Lehigh University, majoring in Finance with a minor in Real Estate.
 
 <!-- Upload your own photo and change the path -->
 
