@@ -1,6 +1,6 @@
 ## About Me
 
-Welcome! My name is Julian Wilson. I am a former Division 1 football student-athlete and Lehigh University graduate with a Bachelor’s degree in Finance. Currently, I am pursuing my Master of Professional Accountancy (MPAc) at the University of California, Davis, targeting CPA eligibility in June 2027.  I aim to position myself at the intersection of accounting and finance, working in audit, financial modeling, valuation, and data analytics, utilizing AI & programming applications like Python and Excel to solve complex business problems. Backed by a strong work ethic, adaptability, and high-stakes teamwork developed through competitive athletics, I bring a collaborative, growth-oriented mindset to engagement teams and client-facing roles.
+Welcome! My name is Julian Wilson. I am a former Division 1 football student-athlete and Lehigh University graduate with a Bachelor’s degree in Finance. I am currently pursuing my Master of Professional Accountancy (MPAc) at the University of California, Davis, with CPA eligibility targeted for June 2027.  I aim to work at the intersection of accounting and finance in audit, financial modeling, valuation, and data analytics, using AI & programming tools like Python and Excel to solve complex business problems. Backed by a strong work ethic, adaptability, and high-stakes teamwork developed through competitive athletics, I bring a collaborative, growth-oriented mindset to engagement teams and client-facing roles.
 
 <!-- Upload your own photo and change the path -->
 
@@ -29,15 +29,10 @@ _**[Real Estate Project](real_estate_project/project.md)**_
 
 ---
 
-## Career Objectives
-I want to start my own investment firm where I would invest in Real Estate and stocks.
-My strategy is to use technical indicators such as simple-moving averages, RSI, and support/resistance levels to trade stocks and options. 
----
 
 ## Hobbies
 
-I am a very active person. I love playing sports and engaging in outdoor activities such as playing basketball, working out, or going hiking.
-I love listening to music, cooking, and watching shows/movies my favorite being Game of Thrones. 
+Outside of my academic and professional pursuits, I stay active and creative through a variety of personal interests. I enjoy cooking, writing poetry, lifting weights, hiking, and playing sports, as well as unwinding with a good movie or TV show.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
