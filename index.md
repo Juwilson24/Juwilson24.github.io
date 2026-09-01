@@ -1,11 +1,11 @@
 ## About Me
 
-My name is Julian Wilson. I am a student-athlete at Lehigh University, majoring in Finance with a minor in Real Estate.
+Welcome! My name is Julian Wilson. I am a former Division 1 football student-athlete and Lehigh University graduate with a Bachelor’s degree in Finance. Currently, I am pursuing my Master of Professional Accountancy (MPAc) at the University of California, Davis, targeting CPA eligibility in June 2027.  I aim to position myself at the intersection of accounting and finance, working in audit, financial modeling, valuation, and data analytics, utilizing AI & programming applications like Python and Excel to solve complex business problems. Backed by a strong work ethic, adaptability, and high-stakes teamwork developed through competitive athletics, I bring a collaborative, growth-oriented mindset to engagement teams and client-facing roles.
 
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="images/football_two.JPG" width="50%">
+  <img class="img-circle" src="images/football_three.jpg" width="50%">
 </p>
 
 _**[Regression Practice](asgn-07_exercises.md)**_
