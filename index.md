@@ -1,6 +1,6 @@
 ## About Me
 
-Welcome! My name is Julian Wilson. I am a former Division 1 football student-athlete and Lehigh University graduate with a Bachelor’s degree in Finance. I am currently pursuing my Master of Professional Accountancy (MPAc) at the University of California, Davis, with CPA eligibility targeted for June 2027.  I aim to work at the intersection of accounting and finance in audit, financial modeling, valuation, and data analytics, using AI & programming tools like Python and Excel to solve complex business problems. Backed by a strong work ethic, adaptability, and high-stakes teamwork developed through competitive athletics, I bring a collaborative, growth-oriented mindset to engagement teams and client-facing roles.
+Welcome! My name is Julian Wilson. I am a former Division 1 football student-athlete and Lehigh University graduate with a Bachelor’s degree in Finance. I am currently pursuing my Master of Professional Accountancy (MPAc) at the University of California, Davis, with CPA eligibility targeted for June 2027.  I aim to work at the intersection of accounting and finance through audit, financial modeling, valuation, or data analytics, utilizing AI & programming tools like Python and Excel to solve complex business problems. Backed by a strong work ethic, adaptability, and high-stakes teamwork developed through competitive athletics, I bring a collaborative, growth-oriented mindset to engagement teams and client-facing roles.
 
 <!-- Upload your own photo and change the path -->
 
