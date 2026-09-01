@@ -5,7 +5,7 @@ Welcome! My name is Julian Wilson. I am a former Division 1 football student-ath
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="images/football_three.jpg" width="50%">
+  <img class="img-circle" src="images/football_three.jpg" width="80%">
 </p>
 
 _**[Regression Practice](asgn-07_exercises.md)**_
